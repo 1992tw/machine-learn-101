@@ -1,0 +1,15 @@
+{
+  "id": "6876cbe59b42142466396d82",
+  "lessonNumber": 1,
+  "title": "Introduction to Machine Learning",
+  "status": "pending",
+  "assignment": {
+    "title": "Assignment will be generated",
+    "objective": "Objective will be provided when lesson is generated",
+    "expectedCapabilities": [],
+    "instructions": [],
+    "tasks": [],
+    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+  },
+  "subsections": []
+}
