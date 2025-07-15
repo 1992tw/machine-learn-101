@@ -1,0 +1,34 @@
+{
+  "id": "6876cbe59b42142466396d7e",
+  "title": "Machine Learn 101",
+  "description": "An introductory course that provides an overview of Machine Learning concepts and methodologies, including hands-on experience with coding, algorithm design, and data model creation.",
+  "learningObjectives": [
+    "Understand the fundamental concepts of Machine Learning",
+    "Get familiar with various Machine Learning algorithms",
+    "Ability to apply Machine Learning algorithms to real-world problems",
+    "Gain hands-on coding experience to implement Machine Learning models"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project will test students' ability to apply the learned algorithms on a real-world problem. They will design and develop a Machine Learning model from scratch.",
+    "planningResources": [
+      "Final project planning template",
+      "Machine Learning model design checklist",
+      "Python coding guidelines"
+    ],
+    "submissionInstructions": "The final project should be submitted via our online learning portal. Detailed instructions and deadlines will be provided during the final week of the course.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6800a73454438765dcfd5e07",
+    "name": "Tammam Alwafai",
+    "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-15T21:45:09.186Z",
+  "updatedAt": "2025-07-15T21:45:09.186Z"
+}
